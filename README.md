@@ -6,7 +6,7 @@ Innerhalb dieses Repos verwaltet Republic of San Andreas die Wünsche und Ideen 
 Wenn du Vorschläge für den späteren Server hast, erstelle ein Issue mit einer passenden Beschreibung.  
 Natürlich soll über bestehende Issues auch kräftig diskutiert werden, damit wir am Ende die besten Resultate erzielen können.
 
-Wir freuen uns auf eure Mitarbeit!
+Wir freuen uns auf eure Mitarbeit!  
 Das RSA-Team
 
 > Weitere Informationen unter http://www.rsa-roleplay.de
