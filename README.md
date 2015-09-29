@@ -9,4 +9,4 @@ Natürlich soll über bestehende Issues auch kräftig diskutiert werden, damit w
 Wir freuen uns auf eure Mitarbeit!  
 Das RSA-Team
 
-> Weitere Informationen unter http://www.rsa-roleplay.de
+> Weitere Informationen unter [www.rsa-roleplay.de](https://www.rsa-roleplay.de)
